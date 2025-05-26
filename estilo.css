@@ -11,7 +11,7 @@ button{
 	color: #87CEFA;/* cor da fonte*/
 	background-color: #0000CD;/* cor de fundo do botão*/
 	font-size: 30px; /* tamanho da fonte*/
-	border-radius: 20px 50px 5px 90px; /*arredonda os canntos*/
+	border-radius: 20px; /*arredonda os canntos*/
 	margin-top: 25px ; /* margem do topo*/
 	margin-bottom: 25px; /*margem inferior */
 	margin-left: 20px; /* margem a esquerda*/
@@ -25,4 +25,35 @@ button{
 	padding-bottom: 10px; /*margem interna inferior*/
 	padding-left:10px ; /*margem interna esquerda*/
 	padding-right: 10px; /*margem direita*/
+}
+
+p{
+	text-transform: lowercase;
+	color: #666666;
+	font-size: 25px;
+	letter-spacing: 2px;
+	font-family: 'Ravie';
+	text-align: justify;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+
+.banner img{
+
+width: 1150px;
+
+}
+.propagandas img{
+
+	width: 300px;
+
+
+}
+
+.conteudo h1{
+
+}
+
+.conteudo p{
+
 }
